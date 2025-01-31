@@ -13,8 +13,8 @@ export default function Home() {
                     <Button variant="contained" sx={{ mr: 2 }}>Happy Playlist</Button>
                 </Link>
 
-                <Link href="/workout-jams" passHref>
-                    <Button variant="contained" sx={{ mr: 2 }}>Workout Jams</Button>
+                <Link href="/dhh" passHref>
+                    <Button variant="contained" sx={{ mr: 2 }}>DHH- Desi HipHop Playlist</Button>
                 </Link>
 
                 <Link href="/party-mix" passHref>
